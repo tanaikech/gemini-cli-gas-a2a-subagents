@@ -16,7 +16,7 @@ For a detailed walkthrough, please refer to the technical article:
 
 ## Google Apps Script Projects
 
-You can directly copy the Google Apps Script projects to your Google Drive using the following links:
+You can directly copy the [Google Apps Script](https://developers.google.com/apps-script?utm_campaign=deveco_gdemembers&utm_source=deveco) projects to your Google Drive using the following links:
 
 ### 1. Simple Agent: `sample-gas-agent`
 A basic implementation featuring currency exchange and weather tools. Use this to test the initial connection.
